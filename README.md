@@ -1,6 +1,6 @@
 #                                                             Hi there 👋
 
-<img src='https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json'/>
+<code><img src='https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json' /></code>
 
 - 🔭 I’m currently working on a codegenerator like copilot
  
