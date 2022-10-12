@@ -1,7 +1,4 @@
-<code><div style="justify:'center'; align.items:'center';">
-   # Hi there 👋
-</div>
-</code>
+                                                            # Hi there 👋
 
 - 🔭 I’m currently working on a codegenerator like copilot
  
