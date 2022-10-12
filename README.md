@@ -1,4 +1,4 @@
-<code><div style="justify:'center'; align.items:'center';>
+<code><div style="justify:'center'; align.items:'center';">
    # Hi there 👋
 </div>
 </code>
