@@ -1,5 +1,7 @@
 #                                                             Hi there 👋
 
+![Alt text](https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json "Full Stack Dev")
+
 - 🔭 I’m currently working on a codegenerator like copilot
  
 <!--
