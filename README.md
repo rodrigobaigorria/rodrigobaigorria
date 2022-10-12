@@ -10,7 +10,7 @@
  
  ---
 
-- 📫 Click to find me: <br/><a href="https://www.linkedin.com/in/hugo-rodrigo-baigorria/"><img src="./assets/linkedin.gif" width="150" height="150" style="border-radius: 15px; margin-top: 20px" /></a>
+- 📫 Click to find me: <br/><a href="https://www.linkedin.com/in/hugo-rodrigo-baigorria/"><img src="./assets/linkedin.gif" width="150" height="150" style="border-radius: 15px; margin-top: 20px !important" /></a>
 <!--
 **rodrigobaigorria/rodrigobaigorria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
