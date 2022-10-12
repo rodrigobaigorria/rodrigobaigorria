@@ -1,6 +1,6 @@
 #                                                             Hi there 👋
 
-![Alt text](https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json "Full Stack Dev")
+<img src='https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json'/>
 
 - 🔭 I’m currently working on a codegenerator like copilot
  
