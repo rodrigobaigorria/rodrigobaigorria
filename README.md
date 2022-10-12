@@ -1,9 +1,18 @@
 #                                                             Hi there 👋
-
-<code><img src='https://assets1.lottiefiles.com/packages/lf20_qjryhqec/data.json' /></code>
-
-- 🔭 I’m currently working on a codegenerator like copilot
+## My name is Hugo Rodrigo Baigorria, I'm a Software Developer Full Stack
+---
+<code><div style="display:flex; margin-top: 15px;">
+<img src="./assets/animation1.gif" width="200" height="200" style="border-radius: 10px; margin-left: 200px; margin-rigth: 200px;" />
+<p>
+  &nbsp;&nbsp;- 🔭 I’m currently working on a codegenerator like copilot
+<br/>
+  &nbsp;&nbsp;- 💬 Ask me about React - Ionic - Angular - AI with Javascript - Nodejs
+</p>
+</div></code>
  
+ ---
+
+- 📫 Click to find me: <br/><a href="https://www.linkedin.com/in/hugo-rodrigo-baigorria/"><img src="./assets/linkedin.gif" width="150" height="150" style="border-radius: 15px; margin-top: 20px" /></a>
 <!--
 **rodrigobaigorria/rodrigobaigorria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
