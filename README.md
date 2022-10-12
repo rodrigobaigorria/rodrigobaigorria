@@ -1,5 +1,9 @@
 # Hi there 👋
 - 🔭 I’m currently working on a codegenerator like copilot
+ <code><div class="footer">
+    &amp;copy; 2004 Foo Corporation
+</div>
+</code>
 <!--
 **rodrigobaigorria/rodrigobaigorria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
