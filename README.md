@@ -4,7 +4,7 @@
 <code><div style="display:flex; margin-top: 15px;">
 <img src="./assets/animation1.gif" width="200" height="200" style="border-radius: 10px; margin-left: 200px; margin-rigth: 200px;" />
 <p>
-  &nbsp;&nbsp;- 💬 Ask me about React - Ionic - Angular - AI with Javascript - Nodejs - Swift - Android 
+  &nbsp;&nbsp;- 💬 Ask me about React - Ionic - Angular - AI with Javascript - Nodejs - React - Swift - Android 
 </p>
 </div></code>
  
